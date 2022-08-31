@@ -1,0 +1,19 @@
+{
+  "name": "rnative-buffer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bonfim996/rnative-buffer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bonfim996/rnative-buffer/issues"
+  },
+  "homepage": "https://github.com/bonfim996/rnative-buffer#readme"
+}
